@@ -4,3 +4,25 @@
 *.xml
 *.iml
 .idea/
+CLAUDE.md
+anaconda_projects/
+
+# LaTeX build artifacts
+report/*.aux
+report/*.log
+report/*.toc
+report/*.out
+report/*.bbl
+report/*.blg
+report/*.bcf
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.run.xml
+report/*-eps-converted-to.pdf
+
+# Copyrighted reference material
+Computational Physics - Thijssen*.pdf
+
+# macOS
+.DS_Store
