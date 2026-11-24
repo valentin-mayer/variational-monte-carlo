@@ -26,3 +26,11 @@ Computational Physics - Thijssen*.pdf
 
 # macOS
 .DS_Store
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Scratch notebook
+other_stuff.ipynb
